@@ -39,7 +39,7 @@ bomb = Rectangle(Point(100, 80), 5, 10) # In my video game
 print("box: ", box)
 print("bomb: ", bomb)
 
-#Testing the previous functions
+#Testing the previous function
 r1 = create_rectangle(10, 20, 30, 40)
 print (str_rectangle(r1))
 shift_rectangle(r1, -10, -20)
